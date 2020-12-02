@@ -1,0 +1,97 @@
+AdminViewMode 2020-03-25 16:40:55.711 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 16:43:31.841 For input string: ""
+AdminViewMode 2020-03-25 16:43:33.329 For input string: ""
+AdminViewMode 2020-03-25 21:24:05.839 For input string: "a"
+AdminViewMode 2020-03-25 21:24:08.979 null
+AdminViewMode 2020-03-25 21:26:10.239 For input string: "a"
+AdminViewMode 2020-03-25 21:26:12.104 null
+AdminViewMode 2020-03-25 21:28:04.317 Violation of PRIMARY KEY constraint 'PK_tblEmployee'. Cannot insert duplicate key in object 'dbo.tblEmployee'. The duplicate key value is (12).
+AdminViewMode 2020-03-25 21:29:03.47 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:32:14.555 Violation of PRIMARY KEY constraint 'PK_tblDevice'. Cannot insert duplicate key in object 'dbo.tblDevice'. The duplicate key value is (8).
+AdminViewMode 2020-03-25 21:34:22.1 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (8).
+AdminViewMode 2020-03-25 21:34:23.576 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (8).
+AdminViewMode 2020-03-25 21:36:42.783 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:39:32.21 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:39:41.336 Violation of PRIMARY KEY constraint 'PK_tblEmployee'. Cannot insert duplicate key in object 'dbo.tblEmployee'. The duplicate key value is (12).
+AdminViewMode 2020-03-25 21:39:59.916 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:40:14.761 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:40:51.69 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:45:33.408 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:45:50.273 The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:45:51.622 The INSERT statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:48:10.058 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:50:03.488 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:56:21.984 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:56:25.264 Violation of PRIMARY KEY constraint 'PK_tblDevice'. Cannot insert duplicate key in object 'dbo.tblDevice'. The duplicate key value is (8).
+AdminViewMode 2020-03-25 21:57:39.424 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-25 21:57:50.268 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblCategory". The conflict occurred in database "DeviceManagement", table "dbo.tblCategory", column 'CateID'.
+AdminViewMode 2020-03-25 22:11:29.285 null
+AdminViewMode 2020-03-25 22:11:32.94 null
+AdminViewMode 2020-03-25 22:11:34.384 null
+AdminViewMode 2020-03-25 22:11:40.343 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-26 20:54:29.212 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblEmployee_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-26 20:54:41.124 Violation of PRIMARY KEY constraint 'PK_tblEmployee'. Cannot insert duplicate key in object 'dbo.tblEmployee'. The duplicate key value is (1).
+AdminViewMode 2020-03-26 20:55:10.329 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblCategory". The conflict occurred in database "DeviceManagement", table "dbo.tblCategory", column 'CateID'.
+AdminViewMode 2020-03-26 20:55:27.471 null
+AdminViewMode 2020-03-26 20:56:07.604 null
+AdminViewMode 2020-03-26 20:56:09.83 null
+AdminViewMode 2020-03-26 20:56:14.28 null
+AdminViewMode 2020-03-26 20:56:14.889 null
+AdminViewMode 2020-03-26 20:56:20.634 null
+AdminViewMode 2020-03-26 20:56:41.984 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (10).
+AdminViewMode 2020-03-26 20:56:43.609 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (10).
+AdminViewMode 2020-03-26 20:56:43.771 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (10).
+AdminViewMode 2020-03-26 20:56:43.953 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (10).
+AdminViewMode 2020-03-26 21:39:06.159 Violation of PRIMARY KEY constraint 'PK_tblEmployee'. Cannot insert duplicate key in object 'dbo.tblEmployee'. The duplicate key value is (12).
+AdminViewMode 2020-03-26 21:40:45.737 null
+AdminViewMode 2020-03-26 21:40:59.754 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-26 21:41:32.141 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+AdminViewMode 2020-03-26 21:42:00.535 Violation of PRIMARY KEY constraint 'PK_tblDevice'. Cannot insert duplicate key in object 'dbo.tblDevice'. The duplicate key value is (4).
+AdminViewMode 2020-03-26 21:42:14.483 For input string: ""
+AdminViewMode 2020-03-27 08:03:24.432 For input string: ""
+AdminViewMode 2020-03-27 08:03:26.217 For input string: ""
+AdminViewMode 2020-03-27 08:04:27.987 For input string: ""
+AdminViewMode 2020-03-27 08:04:34.196 For input string: ""
+AdminViewMode 2020-03-27 08:04:35.549 For input string: ""
+AdminViewMode 2020-03-27 08:08:56.896 For input string: ""
+AdminViewMode 2020-03-27 08:11:05.099 For input string: ""
+AdminViewMode 2020-03-27 08:13:03.066 null
+AdminViewMode 2020-03-27 08:13:05.741 null
+AdminViewMode 2020-03-27 08:13:06.892 null
+AdminViewMode 2020-03-27 08:13:08.511 null
+AdminViewMode 2020-03-27 08:13:11.448 null
+AdminViewMode 2020-03-27 08:13:12.058 null
+AdminViewMode 2020-03-27 08:13:15.102 null
+AdminViewMode 2020-03-27 09:17:45.015 null
+AdminViewMode 2020-03-27 09:20:00.087 For input string: ""
+AdminViewMode 2020-03-27 09:20:04.787 For input string: ""
+AdminViewMode 2020-03-27 09:20:05.629 For input string: ""
+AdminViewMode 2020-03-27 09:20:34.561 For input string: ""
+AdminViewMode 2020-03-27 09:20:42.193 For input string: ""
+AdminViewMode 2020-03-27 09:21:01.524 For input string: "a"
+AdminViewMode 2020-03-27 09:21:11.843 For input string: ""
+AdminViewMode 2020-03-27 09:21:19.719 For input string: ""
+AdminViewMode 2020-03-27 09:21:41.77 For input string: ""
+AdminViewMode 2020-03-27 09:22:02.219 For input string: ""
+AdminViewMode 2020-03-27 09:23:24.916 For input string: ""
+AdminViewMode 2020-03-27 09:23:37.969 null
+AdminViewMode 2020-03-27 09:24:39.577 For input string: ""
+AdminViewMode 2020-03-27 09:28:30.681 For input string: ""
+AdminViewMode 2020-03-27 09:29:06.499 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (13).
+AdminViewMode 2020-03-27 09:29:07.465 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (13).
+AdminViewMode 2020-03-27 09:29:07.609 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (13).
+AdminViewMode 2020-03-27 09:29:07.777 Violation of PRIMARY KEY constraint 'PK_tblDepartment'. Cannot insert duplicate key in object 'dbo.tblDepartment'. The duplicate key value is (13).
+AdminViewMode 2020-03-29 10:10:41.207 For input string: ""
+AdminViewMode 2020-03-29 10:10:41.786 For input string: ""
+AdminViewMode 2020-03-29 10:10:49.683 For input string: ""
+AdminViewMode 2020-03-29 10:10:52.746 For input string: ""
+AdminViewMode 2020-03-29 10:10:56.005 For input string: ""
+AdminViewMode 2020-03-29 10:11:02.234 For input string: ""
+AdminViewMode 2020-03-29 10:11:07.761 For input string: ""
+AdminViewMode 2020-10-26 09:39:24.625 Cannot open database "DeviceManagement" requested by the login. The login failed.
+AdminViewMode 2020-10-26 09:39:24.744 Cannot open database "DeviceManagement" requested by the login. The login failed.
+AdminViewMode 2020-10-26 09:39:24.763 Cannot open database "DeviceManagement" requested by the login. The login failed.
+AdminViewMode 2020-10-26 09:39:24.781 Cannot open database "DeviceManagement" requested by the login. The login failed.
+AdminViewMode 2020-10-26 09:39:24.8 Cannot open database "DeviceManagement" requested by the login. The login failed.
+AdminViewMode 2020-10-26 09:39:47.468 Cannot open database "DeviceManagement" requested by the login. The login failed.
+AdminViewMode 2020-10-26 09:39:48.371 Cannot open database "DeviceManagement" requested by the login. The login failed.

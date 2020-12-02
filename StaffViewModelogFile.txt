@@ -1,0 +1,13 @@
+StaffViewMode 2020-03-25 16:13:45.54 For input string: "a"
+StaffViewMode 2020-03-25 16:14:38.423 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+StaffViewMode 2020-03-25 16:14:44.576 For input string: "a"
+StaffViewMode 2020-03-25 16:14:45.795 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+StaffViewMode 2020-03-25 22:17:05.073 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+StaffViewMode 2020-03-26 20:41:11.583 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+StaffViewMode 2020-03-26 20:41:42.297 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+StaffViewMode 2020-03-26 20:51:08.681 For input string: "a"
+StaffViewMode 2020-03-26 21:38:14.185 The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_tblDevice_tblDepartment". The conflict occurred in database "DeviceManagement", table "dbo.tblDepartment", column 'DepID'.
+StaffViewMode 2020-03-27 09:05:03.845 For input string: ""
+StaffViewMode 2020-03-27 09:05:05.093 For input string: ""
+StaffViewMode 2020-10-26 09:40:21.508 Cannot open database "DeviceManagement" requested by the login. The login failed.
+StaffViewMode 2020-10-26 09:40:21.524 Cannot open database "DeviceManagement" requested by the login. The login failed.

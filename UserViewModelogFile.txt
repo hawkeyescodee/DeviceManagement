@@ -1,0 +1,25 @@
+UserViewMode 2020-03-25 15:16:15.424 For input string: ""
+UserViewMode 2020-03-25 15:16:48.762 For input string: "a"
+UserViewMode 2020-03-25 15:17:15.222 For input string: "Huong Giang Idol"
+UserViewMode 2020-03-25 15:17:41.592 For input string: "Nghĩa Tăng Idol"
+UserViewMode 2020-03-25 16:03:38.81 For input string: "a"
+UserViewMode 2020-03-25 16:03:51.398 null
+UserViewMode 2020-03-25 16:04:08.643 For input string: "a"
+UserViewMode 2020-03-25 16:04:18.338 null
+UserViewMode 2020-03-25 22:18:37.118 null
+UserViewMode 2020-03-26 20:19:29.59 The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Maintainance_tblEmployee". The conflict occurred in database "DeviceManagement", table "dbo.tblEmployee", column 'EmpID'.
+UserViewMode 2020-03-26 20:21:46.599 The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Maintainance_tblEmployee". The conflict occurred in database "DeviceManagement", table "dbo.tblEmployee", column 'EmpID'.
+UserViewMode 2020-03-26 20:22:13.716 For input string: "asd" Search ID
+UserViewMode 2020-03-26 20:22:34.746 null
+UserViewMode 2020-03-26 20:25:13.182 The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Maintainance_tblEmployee". The conflict occurred in database "DeviceManagement", table "dbo.tblEmployee", column 'EmpID'.
+UserViewMode 2020-03-26 20:25:17.702 The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Maintainance_tblEmployee". The conflict occurred in database "DeviceManagement", table "dbo.tblEmployee", column 'EmpID'.
+UserViewMode 2020-03-26 20:25:45.547 The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Maintainance_tblDevice". The conflict occurred in database "DeviceManagement", table "dbo.tblDevice", column 'DevID'.
+UserViewMode 2020-03-26 20:26:33.629 For input string: "á"
+UserViewMode 2020-03-26 21:09:34.155 For input string: "a" Search ID
+UserViewMode 2020-03-26 21:36:34.648 For input string: "s" Search ID
+UserViewMode 2020-03-29 10:02:49.671 For input string: ""
+UserViewMode 2020-03-29 10:03:05.739 For input string: ""
+UserViewMode 2020-03-29 10:03:06.304 For input string: "a"
+UserViewMode 2020-03-29 10:03:13.837 For input string: ""
+UserViewMode 2020-10-26 09:39:14.652 Cannot open database "DeviceManagement" requested by the login. The login failed.
+UserViewMode 2020-10-27 21:39:35.34 Cannot open database "DeviceManagement" requested by the login. The login failed.
