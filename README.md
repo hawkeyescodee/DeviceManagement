@@ -1,5 +1,5 @@
 # Welcome to Liam Nguyen repository
-This repository contains the source of a simple Device Management which is a assignment of Java Desktop Programming at FPT University
+This repository contains the source of a simple Device Management which is an assignment of Java Desktop Programming at FPT University
 
 ## You will find in this repository: 
 1. The source code of this project
